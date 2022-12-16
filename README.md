@@ -1,4 +1,4 @@
-# UGRC-IIT-Madras
+# UnderGraduate Research - IIT-Madras
 
 #User defined Objects Interning and Value Types in JAVA                          
 
